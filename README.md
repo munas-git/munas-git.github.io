@@ -1,7 +1,7 @@
 # Data Scientist | Machine Learning Researcher.
 > Detail-oriented Data Scientist and Machine Learning Researcher proficient in Python, SQL, Tableau, and Power BI, with expertise in automation, machine learning, data analysis, and data engineering.   
 
-**Technical Skills**: Python, PyTorch, SQL, Machine Learning, Computer Vision, NLP, Applied AI, Tableau, MLOps, Data Engineering, MS Suite (Word, Excel, PowerPoint, Outlook).
+**Technical Skills**: Python, PyTorch, SQL, Machine Learning, Computer Vision, NLP, Applied AI, Tableau, MLOps, Data Engineering, MS Suite (Word, Excel, PowerPoint, Outlook).   
 **NonTechnical Skills**: Non-Technical: Communication, attention to detail, self-motivation, collaboration, eagerness to learn.
 
 ## Education
