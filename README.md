@@ -55,37 +55,37 @@ The document summarizing system developed as my final year project for a B.Sc. i
 - ➡️ [More Data Science Blog](https://medium.com/@einsteinmunachiso)
 
 ## Volunteering
-- Logistics Coordinator @ TEDx Royal Holloway.   
-(_October 2023 - September 2024_)
+- **Logistics Coordinator @ TEDx Royal Holloway.**   
+**(_October 2023 - September 2024_)**
 
   Successfully managed four bake sales contributing to event funding, and coordinated the attendance of over 100 participants for a high-impact TEDx talk that garnered over 41,000 cumulative YouTube views by orchestrating event planning and logistics with a 13-member team.
 
-- Data Scientist @ HeatGeek Hackathon.   
-(_June 15th - 16th 2024_)
+- **Data Scientist @ HeatGeek Hackathon.**   
+**(_June 15th - 16th 2024_)**
 
   I volunteered my data and AI skills at a two-day AI hackathon, where my team won the Innovation Prize. We built an AI tool to help homeowners and installers assess heat pump locations using satellite imagery and API data. Huge thanks to everyone at Heat Geek for hosting such an inspiring event!
 
-- EMPS Network Member @ Royal Holloway University.   
-(_October 2023 - September 2024_)   
+- **EMPS Network Member @ Royal Holloway University.**   
+**(_October 2023 - September 2024_)**   
    
   Advocate for student voices by actively voicing opinions and contributing to meaningful discussions, ensuring that the concerns and ideas of fellow students were heard and addressed.
 
-- Pioneer Lead Data Scientist @ GDSC Babcock University.   
-(_September 2022 - August 2023_)
+- **Pioneer Lead Data Scientist @ GDSC Babcock University.**   
+**(_September 2022 - August 2023_)**
 
   As the GDSC Lead for the Data Science track, I developed a comprehensive training framework that achieved significant learning outcomes. I introduced over 300 students to Python Programming and Object-Oriented Programming (OOP) through regular in-person and online sessions. I enhanced practical skills by organizing coding sessions focused on data cleaning, visualization, machine learning model development, evaluation, and regularization
 
-- Volunteer Data Science Bootcamp Teacher @ GDSC Nigeria.   
-(_February 2023 - March 2023_)
+- **Volunteer Data Science Bootcamp Teacher @ GDSC Nigeria.**   
+**(_February 2023 - March 2023_)**
 
    I successfully led a 3-week boot camp tailored for Sub-Saharan Africa, motivating students in the tech industry with valuable advice. I also curated and shared resources to boost proficiency in data-related skills, providing continuous support to ensure a thorough understanding of the material.
 
-- 2x Student Representative (Senator) @ Babcock University Student's Association.  
-(_September 2021 - August 2023_)
+- **2x Student Representative (Senator) @ Babcock University Student's Association.**  
+**(_September 2021 - August 2023_)**
 
   I effectively resolved peer concerns by skillfully advocating their needs to relevant authorities, ensuring swift and impactful outcomes. I strengthened the school's communication efforts by guaranteeing the timely and accurate dissemination of critical information to the student body, while also managing multiple emergencies with composure and efficiency, prioritizing the safety and well-being of everyone involved. Additionally, I contributed to enhancing students' overall quality of life through active engagement in various enrichment initiatives.
 
-- BUCC Network Member @ Babcock University Computer Club.   
-(_September 2019 - June 2023_)
+- **BUCC Network Member @ Babcock University Computer Club.**   
+**(_September 2019 - June 2023_)**
 
   During my tenure, I engaged in numerous impactful initiatives, one of the highlights being my key role in orchestrating a highly successful career fair in 2023. As a vital member of the planning committee, I helped bring in distinguished speakers and leading organizations within the tech industry. Additionally, I enhanced the event by contributing valuable insights as a panelist during discussions.
