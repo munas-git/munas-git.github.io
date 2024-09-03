@@ -19,7 +19,14 @@
 - Secured a major contract by enhancing ChatBot responsiveness by 70%, achieved through spearheading the design and implementation of a cutting-edge AI POC using Llama-2, AWS Sagemaker, AWS S3 bucket.
 - Boosted data quality for LLM fine-tuning by 30% by designing and implementing an efficient web crawler equipped with regular expressions, covering all stages of the end-to-end ETL pipeline from data collection to processing.
 - Achieved a 35% reduction in estimated costs by applying MLOps concepts to productionise model with the least perplexity score after training and evaluating, utilising deep learning frameworks like PyTorch, Langchain, and AWS.
-- Enhanced knowledge sharing and collaboration within and outside organisation by authoring 2 detailed system process documentations, visualising insights from trained models to support stakeholders' comprehension.
+- Enhanced knowledge sharing and collaboration within and outside organisation by authoring 2 detailed system process documentations, visualising insights from trained models to support stakeholders' comprehension.   
+
+**Data Analyst & Backend Developer @ SunFi (_Januray - June 2022_)**
+- Achieved a 50% reduction in bug resolution time by engineering and implementing an automated bug reporting and tracking system.
+- Enhanced system design by developing PostgreSQL database schemas, Slack bot prompt templates, and efficient workflows.
+- Optimised infrastructure scalability and performance by configuring a PostgreSQL database with Docker.
+- Improved the bug reporting process by collaborating closely with backend developers to integrate APIs, automating and streamlining the workflow.
+
 
 ## Projects
 ### [Robust Medical Image Segmentation - DeepLabsV3+ with Attention]() (Computer Vision)
