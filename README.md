@@ -4,11 +4,15 @@
 
 ## Education
 - M.S., Data Science and Analytics	| Royal Holloway University of London (_December 2024_)   
+ ***Grade***:   
   **Dissertation**: Deep Learning based Medical Image Segmentation using DeepLabsV3+ equipped with attention mechanism.
                 		
 - B.S., Software Engineering | Babcock University, Nigeria.   
 (_June 2023_)   
+ ***Grade***: 2:1 (Second-Class Honors, First Division.)   
   **Dissertation**: Text summarisation, topic modeling, and Language detection web application with GPT, & Decision Trees.   
+
+## Projects
 
 
 ## Work Experience
@@ -17,12 +21,8 @@
 - Boosted data quality for LLM fine-tuning by 30% by designing and implementing an efficient web crawler equipped with regular expressions, covering all stages of the end-to-end ETL pipeline from data collection to processing.
 - Achieved a 35% reduction in estimated costs by applying MLOps concepts to productionise model with the least perplexity score after training and evaluating, utilising deep learning frameworks like PyTorch, Langchain, and AWS.
 - Enhanced knowledge sharing and collaboration within and outside organisation by authoring 2 detailed system process documentations, visualising insights from trained models to support stakeholders' comprehension.
-
-**Data Analytics & Backend Intern @ SunFi (_d_)**
-- 
-- 
-
-## Projects
+  
+**Data Analytics & Backend Intern @ Vault Hill (_August 2023 - October 2023_)**
 
 ## Talks & Lectures
 
