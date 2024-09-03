@@ -5,14 +5,14 @@
 **NonTechnical Skills**: Communication, attention to detail, self-motivation, collaboration, eagerness to learn.
 
 ## Education
-- M.S., Data Science and Analytics	| Royal Holloway University of London (_December 2024_)   
- ***Grade***:   
-  **Dissertation**: Deep Learning based Medical Image Segmentation using DeepLabsV3+ equipped with attention mechanism.
+- **M.S., Data Science and Analytics	| Royal Holloway University of London (_December 2024_)**   
+  Grade: Ongoing   
+  Dissertation: Deep Learning based Medical Image Segmentation using DeepLabsV3+ equipped with attention mechanism.
                 		
-- B.S., Software Engineering | Babcock University, Nigeria.   
+- **B.S., Software Engineering | Babcock University, Nigeria.**   
 (_June 2023_)   
- ***Grade***: 2:1 (Second-Class Honors, First Division.)   
-  **Dissertation**: Text summarisation, topic modeling, and Language detection web application with GPT, & Decision Trees.   
+  Grade: 2:1 (Second-Class Honors, First Division.)   
+  Dissertation: Text summarisation, topic modeling, and Language detection web application with GPT, & Decision Trees.   
 
 ## Work Experience
 **Data Scientist @ Vault Hill (_August - October 2023_)**
