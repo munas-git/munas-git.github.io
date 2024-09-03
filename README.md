@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist | AI & Data Engineering Consultant | Machine Learning Researcher & Innovator
 
 #### Technical Skills: Python, SQL, Machine Learning (Computer Vision, NLP, Applied AI) Tableau, MLOps, Data Engineering.
 
