@@ -1,8 +1,8 @@
 # Data Scientist | Machine Learning Researcher.
-> Detail-oriented Data Scientist and Machine Learning Researcher proficient in Python, SQL, Tableau, and Power BI, with expertise in automation, machine learning, data analysis, and data engineering.   
+> Detail-oriented Data Scientist and Machine Learning Researcher proficient in Python, SQL, Tableau, and Power BI, with expertise in automation, machine learning, data analysis, web scraping, and data engineering.   
 
 **Technical Skills**: Python, PyTorch, SQL, Machine Learning, Computer Vision, NLP, Applied AI, Tableau, MLOps, Data Engineering, MS Suite (Word, Excel, PowerPoint, Outlook).   
-**NonTechnical Skills**: Non-Technical: Communication, attention to detail, self-motivation, collaboration, eagerness to learn.
+**NonTechnical Skills**: Communication, attention to detail, self-motivation, collaboration, eagerness to learn.
 
 ## Education
 - M.S., Data Science and Analytics	| Royal Holloway University of London (_December 2024_)   
@@ -22,7 +22,7 @@
 - Enhanced knowledge sharing and collaboration within and outside organisation by authoring 2 detailed system process documentations, visualising insights from trained models to support stakeholders' comprehension.
 
 ## Projects
-### [Robust Medical Image Segmentation - DeepLabsV3+ with Attention]()
+### [Robust Medical Image Segmentation - DeepLabsV3+ with Attention]() (Computer Vision)
 
 For my first research project and master's dissertation, I embarked on optimizing the DeepLabsV3+ model for medical image segmentation. Through a series of experiments, I discovered that variants of DeepLabsV3+ equipped with attention mechanisms like CMAB and SEBlock significantly outperformed the base version in terms of accuracy and segmentation quality. Additionally, I proposed a novel loss function that incorporates both Binary Cross Entropy and Dice Loss, enhancing the model's performance by addressing the unique challenges of medical image segmentation.
 
