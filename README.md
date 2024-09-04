@@ -54,38 +54,44 @@ The document summarizing system developed as my final year project for a B.Sc. i
 - [Web Scraping with MS Excel and Python: Static Site Contents.](https://medium.com/@einsteinmunachiso/web-scraping-with-ms-excel-and-python-static-site-contents-4903ea08b85)
 - ➡️ [More Data Science Blog](https://medium.com/@einsteinmunachiso)
 
+
 ## Volunteering
-- **Logistics Coordinator @ TEDx Royal Holloway.**   
+- YOLOvX app beta version tester @ [YolovX](https://yolovx.com/)   
+**(_September 2024 - Present_)**
+  I am currently running tests on the app's beta version and will have more to say soon...
+  
+
+- **Logistics Coordinator @ TEDx [Royal Holloway.](https://www.linkedin.com/company/tedx-royal-holloway/)**   
 **(_October 2023 - September 2024_)**
 
   Successfully managed four bake sales contributing to event funding, and coordinated the attendance of over 100 participants for a high-impact TEDx talk that garnered over 41,000 cumulative YouTube views by orchestrating event planning and logistics with a 13-member team.
 
-- **Data Scientist @ HeatGeek Hackathon.**   
+- **Data Scientist @ [HeatGeek](https://www.heatgeek.com/) Hackathon.**   
 **(_June 15th - 16th 2024_)**
 
   I volunteered my data and AI skills at a two-day AI hackathon, where my team won the Innovation Prize. We built an AI tool to help homeowners and installers assess heat pump locations using satellite imagery and API data. Huge thanks to everyone at Heat Geek for hosting such an inspiring event!
 
-- **EMPS Network Member @ Royal Holloway University.**   
+- **Network Member @ [EPMS Royal Holloway University.](https://intranet.royalholloway.ac.uk/students/information-hub/academic/school-of-engineering-physical-and-mathematical-sciences.aspx)**   
 **(_October 2023 - September 2024_)**   
    
   Advocate for student voices by actively voicing opinions and contributing to meaningful discussions, ensuring that the concerns and ideas of fellow students were heard and addressed.
 
-- **Pioneer Lead Data Scientist @ GDSC Babcock University.**   
+- **Pioneer Lead Data Scientist @ [GDSC Babcock University.](https://www.linkedin.com/company/gdsc-babcock/posts/?feedView=all)**   
 **(_September 2022 - August 2023_)**
 
   As the GDSC Lead for the Data Science track, I developed a comprehensive training framework that achieved significant learning outcomes. I introduced over 300 students to Python Programming and Object-Oriented Programming (OOP) through regular in-person and online sessions. I enhanced practical skills by organizing coding sessions focused on data cleaning, visualization, machine learning model development, evaluation, and regularization
 
-- **Volunteer Data Science Bootcamp Teacher @ GDSC Nigeria.**   
+- **Volunteer Data Science Bootcamp Teacher @ [GDSC](https://www.linkedin.com/company/gdsc-iet-lucknow/) Nigeria.**   
 **(_February 2023 - March 2023_)**
 
    I successfully led a 3-week boot camp tailored for Sub-Saharan Africa, motivating students in the tech industry with valuable advice. I also curated and shared resources to boost proficiency in data-related skills, providing continuous support to ensure a thorough understanding of the material.
 
-- **2x Student Representative (Senator) @ Babcock University Student's Association.**  
+- **2x Student Representative (Senator) @ [Babcock University Student's Association.](https://www.linkedin.com/company/babcock-university-students-association/)**  
 **(_September 2021 - August 2023_)**
 
   I effectively resolved peer concerns by skillfully advocating their needs to relevant authorities, ensuring swift and impactful outcomes. I strengthened the school's communication efforts by guaranteeing the timely and accurate dissemination of critical information to the student body, while also managing multiple emergencies with composure and efficiency, prioritizing the safety and well-being of everyone involved. Additionally, I contributed to enhancing students' overall quality of life through active engagement in various enrichment initiatives.
 
-- **BUCC Network Member @ Babcock University Computer Club.**   
+- **BUCC Network Member @ [Babcock University Computer Club.](https://www.linkedin.com/company/bucc-official/posts/?feedView=all)**   
 **(_September 2019 - June 2023_)**
 
   During my tenure, I engaged in numerous impactful initiatives, one of the highlights being my key role in orchestrating a highly successful career fair in 2023. As a vital member of the planning committee, I helped bring in distinguished speakers and leading organizations within the tech industry. Additionally, I enhanced the event by contributing valuable insights as a panelist during discussions.
