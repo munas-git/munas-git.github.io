@@ -1,4 +1,5 @@
-# Data Scientist | Machine Learning Researcher.
+# Data Scientist | Machine Learning Researcher.   
+[LinkedIn](https://www.linkedin.com/in/einstein-ebereonwu) | [X (FKA Twitter)](https://x.com/einsteinmuna)
 > Detail-oriented Data Scientist and Machine Learning Researcher proficient in Python, SQL, Tableau, and Power BI, with expertise in automation, machine learning, data analysis, web scraping, and data engineering.   
 
 **Technical Skills**: Python, PyTorch, SQL, Machine Learning, Computer Vision, NLP, Applied AI, Tableau, MLOps, Data Engineering, MS Suite (Word, Excel, PowerPoint, Outlook).   
@@ -46,6 +47,10 @@ The Automated Attention Tracking and Reporting system is a sleek AI-driven dashb
 The document summarizing system developed as my final year project for a B.Sc. in Software Engineering at Babcock University goes beyond basic summarization. It accurately predicts and suggests the top 2 topics for any text input, detects the language of the text and features text-to-speech functionality to read summaries aloud. Additionally, users can download their summaries as Word documents (.docx).
 
 ![214431479-aae08584-b96e-4934-a205-45a315d6cb94](https://github.com/user-attachments/assets/5adf37f8-d659-4a9e-b871-197beec621ab)
+
+## Certifications (Proof of continuous learning)
+- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/PQ2Z3UR2CLUK) By [DeepLearning.AI](https://www.deeplearning.ai/)
+- [Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/8H5L372MDYLF) By [Google](https://grow.google/intl/uk/enroll-certificates/?utm_source=google&utm_medium=paidsearch&utm_campaign=ha-sem-bk-gen-exa__geo%E2%80%94UK&utm_term=google%20training%20classes&gclsrc=aw.ds&gad_source=1&gclid=CjwKCAjwreW2BhBhEiwAavLwfIqhzCRpXvxMO1WxYMrOfN5tIqhgttybbjv_kbPGMfwRXJXAqtjClBoCM-UQAvD_BwE)
 
 ## Blogs
 - [REST API Implementation in Python for Model Deployment: Flask and FastAPI.](https://medium.com/@einsteinmunachiso/rest-api-implementation-in-python-for-model-deployment-flask-and-fastapi-e80a6cedff86)
