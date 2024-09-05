@@ -61,7 +61,7 @@ The document summarizing system developed as my final year project for a B.Sc. i
 
 
 ## Volunteering
-- YOLOvX app beta version tester @ [YolovX](https://yolovx.com/)   
+- **YOLOvX app beta version tester @ [YolovX](https://yolovx.com/)**   
 **(_September 2024 - Present_)**
   I am currently running tests on the app's beta version and will have more to say soon...
   
