@@ -2,8 +2,14 @@
 [LinkedIn](https://www.linkedin.com/in/einstein-ebereonwu) | [X (FKA Twitter)](https://x.com/einsteinmuna)
 > Detail-oriented Data Scientist and Machine Learning Researcher proficient in Python, SQL, Tableau, and Power BI, with expertise in automation, machine learning, data analysis, web scraping, and data engineering.   
 
-**Technical Skills**: Python, PyTorch, SQL, Machine Learning, Computer Vision, NLP, Applied AI, Tableau, MLOps, Data Engineering, MS Suite (Word, Excel, PowerPoint, Outlook).   
-**NonTechnical Skills**: Communication, attention to detail, self-motivation, collaboration, eagerness to learn.
+## Skills
+**Programming & Data Processing**: Python, SQL, PySpark, Hadoop.   
+**API & MLOps**: Flask, FastAPI, Streamlit, Docker, AWS, GCP, Render.   
+**Data Visualization & Analytics**: Tableau, PowerBI, Matplotlib, Plotly, Seaborn.   
+**Productivity Tools**: MS Suite (Word, Excel, PowerPoint, Outlook), Jira, Slack, Teams.   
+**Data Engineering**: Relational Databases (_MySQL, PostgreSQL_), Document Databases (_MongoDB_), Vector Databases (_ChromaDB_).   
+**Machine Learning & AI**: PyTorck, Scikit-Learn, YOLO, Roboflow, Transformers, NLP (Natural Language Processing), Computer Vision.   
+**NonTechnical**: Communication, attention to detail, self-motivation, collaboration, eagerness to learn.
 
 ## Education
 - **M.S., Data Science and Analytics	| Royal Holloway University of London (_December 2024_)**   
