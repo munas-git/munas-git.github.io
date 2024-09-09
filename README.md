@@ -1,5 +1,5 @@
 # Data Scientist | Machine Learning Researcher.   
-[LinkedIn](https://www.linkedin.com/in/einstein-ebereonwu) | [X (FKA Twitter)](https://x.com/einsteinmuna)
+[LinkedIn](https://www.linkedin.com/in/einstein-ebereonwu) **|** [X (FKA Twitter)](https://x.com/einsteinmuna) **|** [YouTube](https://www.youtube.com/@einstein-munachi)
 > Detail-oriented Data Scientist and Machine Learning Researcher proficient in Python, SQL, Tableau, and Power BI, with expertise in automation, machine learning, data analysis, web scraping, and data engineering.   
 
 ## Skills
