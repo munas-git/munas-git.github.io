@@ -36,7 +36,7 @@
 ## Projects
 ### [Robust Medical Image Segmentation - DeepLabsV3+ with Attention]() (Computer Vision)
 
-For my first research project and master's dissertation, I embarked on optimizing the DeepLabsV3+ model for medical image segmentation. Through a series of experiments, I discovered that variants of DeepLabsV3+ equipped with attention mechanisms like CMAB and SEBlock significantly outperformed the base version in terms of accuracy and segmentation quality. Additionally, I proposed a novel loss function that incorporates both Binary Cross Entropy and Dice Loss, enhancing the model's performance by addressing the unique challenges of medical image segmentation.
+For my master's dissertation, I extensively researched optimizing the DeepLabV3+ architecture for medical image segmentation. Through rigorous experimentation, I developed enhanced variants of DeepLabV3+ by integrating attention mechanisms, specifically Convolutional Block Attention Module (CBAM) and Squeeze-and-Excitation (SEBlock) attention, applied in parallel within the encoder. These attention-equipped models consistently outperformed the base DeepLabV3+ and other published research works across multiple medical imaging datasets, including breast cancer ultrasound, lung X-rays, and skin lesions.
 
 ![Lung Segmentation Predictions](https://github.com/user-attachments/assets/d6e3591d-69e9-4afd-a603-8ab9e343b82c)
 
