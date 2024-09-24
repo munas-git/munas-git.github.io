@@ -1,5 +1,5 @@
 # Data Scientist | Machine Learning Researcher.   
-[LinkedIn](https://www.linkedin.com/in/einstein-ebereonwu) **|** [X (FKA Twitter)](https://x.com/einsteinmuna) **|** [YouTube](https://www.youtube.com/@einstein-munachi)
+[Resume](https://drive.google.com/file/d/1ZmhuCRK0BiIjfBzlnDEaovdmD7Q9D1gQ/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/einstein-ebereonwu) **|** [X (FKA Twitter)](https://x.com/einsteinmuna) **|** [YouTube](https://www.youtube.com/@einstein-munachi)
 > Innovative Data Scientist, an expert in Python, SQL, PySpark, and data visualisation. Specialised in machine learning, NLP (BERT, RoBERTa, GPT), and Computer Vision (YOLO, ResNet, Diffusion Models), experienced in the use of vector databases for proficient similarity search and retrieval. Passionate about learning, and leveraging cutting-edge AI technologies including transformers and generative models. Skilled in building scalable, distributed solutions for complex data problems using Spark, driving insights and decision-making.   
 
 ## Skills
@@ -12,14 +12,25 @@
 **NonTechnical**: Communication, attention to detail, self-motivation, collaboration, eagerness to learn.
 
 ## Education
-- **M.S., Data Science and Analytics	| Royal Holloway University of London (_December 2024_)**   
+- **M.S., Data Science and Analytics	| Royal Holloway University of London**   
   Grade: Ongoing   
   Dissertation: Deep Learning based Medical Image Segmentation using DeepLabsV3+ equipped with attention mechanism.
                 		
-- **B.S., Software Engineering | Babcock University, Nigeria.**   
-(_June 2023_)   
+- **B.S., Software Engineering | Babcock University, Nigeria.**      
   Grade: 2:1 (Second-Class Honors, First Division.)   
   Dissertation: Text summarisation, topic modeling, and Language detection web application with GPT, & Decision Trees.   
+
+## Research Experience
+**Optimising Medical Image Segmentation Through Attention Mechanisms and Custom Loss Functions @ Royal Holloway University of London.   
+(June 2024 - Aug 2024)**   
+  ***Highlight*** - Intensive two-month long computer vision research focused on improving the accuracy of breast cancer, skin lesion, and lung segmentation.   
+  
+  - Implemented advanced data preprocessing and augmentation techniques to enhance model performance and dataset diversity.
+  - Integrated and experimented with CBAM and SEBlock attention mechanisms in the DeepLabV3+ architecture using PyTorch, improving segmentation accuracy.
+  - Discovered significant advantages of a proposed DiceBCE loss function, leading to improved model convergence and performance.
+  - Conducted comprehensive analysis of results, demonstrating substantial improvements in breast cancer, skin lesion, and lung segmentation accuracy.
+  - Currently preparing research paper for publication, highlighting the novel approaches and their impact on medical image segmentation, including theories behind observed differences of attention mechanism performance on different datasets.
+
 
 ## Work Experience
 **Data Scientist @ Vault Hill (_August - October 2023_)**
@@ -36,7 +47,7 @@
 ## Projects
 ### [Robust Medical Image Segmentation - DeepLabsV3+ with Attention]() (Computer Vision)
 
-For my master's dissertation, I extensively researched optimizing the DeepLabV3+ architecture for medical image segmentation. Through rigorous experimentation, I developed enhanced variants of DeepLabV3+ by integrating attention mechanisms, specifically Convolutional Block Attention Module (CBAM) and Squeeze-and-Excitation (SEBlock) attention, applied in parallel within the encoder. These attention-equipped models consistently outperformed the base DeepLabV3+ and other published research works across multiple medical imaging datasets, including breast cancer ultrasound, lung X-rays, and ISIC skin lesions 2017.
+Extensive researchch on optimizing the DeepLabV3+ architecture for medical image segmentation. Through rigorous experimentation, I developed enhanced variants of DeepLabV3+ by integrating attention mechanisms, specifically Convolutional Block Attention Module (CBAM) and Squeeze-and-Excitation (SEBlock) attention, applied in parallel within the encoder. These attention-equipped models consistently outperformed the base DeepLabV3+ and other published research works across multiple medical imaging datasets, including breast cancer ultrasound, lung X-rays, and ISIC skin lesions 2017.
 
 ![Lung Segmentation Predictions](https://github.com/user-attachments/assets/d6e3591d-69e9-4afd-a603-8ab9e343b82c)
 
@@ -104,3 +115,19 @@ The document summarizing system developed as my final year project for a B.Sc. i
 **(_September 2019 - June 2023_)**
 
   During my tenure, I engaged in numerous impactful initiatives, one of the highlights being my key role in orchestrating a highly successful career fair in 2023. As a vital member of the planning committee, I helped bring in distinguished speakers and leading organizations within the tech industry. Additionally, I enhanced the event by contributing valuable insights as a panelist during discussions.
+
+
+## Interests and Activities
+### AI Research and Trends.
+  I am dedicated to staying at the forefront of artificial intelligence, I do this by regularly reading research papers and follow industry trends through newsletters such as TechCrunch, TL;DR as well as other popular tech blogs and company X and LinkedIn accounts.   
+  
+### Teaching   
+  Passionate about teaching and sharing knowledge, I actively seek opportunities to educate others through small group meetings, workshops, and voluntary initiatives. I believe in fostering a collaborative learning environment, whether within my company or through community engagement, to inspire growth and empower individuals to reach their full potential.   
+  
+### Fitness and Working Out   
+  I enjoy exploring various training methods, and maintaining a balanced lifestyle through activities such as running, working out as well as meal prep every now and then.   
+  
+### Hackathons   
+I enjoy hackathons. I recently attended and won a two-day AI hackathon at Heat Geeks AI where my team won the prize for Innovation by developing an AI tool to help homeowners and installers assess heat pump locations using satellite imagery, internal company API and OpenAI API.
+References Available on request.
+
