@@ -3,13 +3,14 @@
 > Innovative Data Scientist, an expert in Python, SQL, PySpark, and data visualisation. Specialised in machine learning, NLP (BERT, RoBERTa, GPT), and Computer Vision (YOLO, ResNet, Diffusion Models), experienced in the use of vector databases for proficient similarity search and retrieval. Passionate about learning, and leveraging cutting-edge AI technologies including transformers and generative models. Skilled in building scalable, distributed solutions for complex data problems using Spark, driving insights and decision-making.   
 
 ## Skills
+**Databases**: MySQL, PostgreSQL, MongoDB, ChromaDB   
 **Programming & Data Processing**: Python, SQL, PySpark, Hadoop.   
 **API & MLOps**: Flask, FastAPI, Streamlit, Docker, AWS, GCP, Render.   
-**Data Visualization & Analytics**: Tableau, PowerBI, Matplotlib, Plotly, Seaborn.   
+**Data Visualisation & Analytics**: Tableau, PowerBI, Matplotlib, Plotly, Seaborn.   
 **Productivity Tools**: MS Suite (Word, Excel, PowerPoint, Outlook), Jira, Slack, Teams.   
-**Data Engineering**: Relational Databases (_MySQL, PostgreSQL_), Document Databases (_MongoDB_), Vector Databases (_ChromaDB_).   
-**Machine Learning & AI**: PyTorck, Scikit-Learn, YOLO, Roboflow, Transformers, NLP (Natural Language Processing), Computer Vision.   
-**NonTechnical**: Communication, attention to detail, self-motivation, collaboration, eagerness to learn.
+**Machine Learning & AI**: PyTorck, Scikit-Learn, YOLO, Roboflow, Transformers, NLP, Computer Vision.   
+**Non-Technical**: Communication, attention to detail, self-motivation, collaboration, eagerness to learn.   
+
 
 ## Education
 - **M.S., Data Science and Analytics	| Royal Holloway University of London**   
