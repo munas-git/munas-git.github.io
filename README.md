@@ -1,5 +1,5 @@
 # Data Scientist | Machine Learning Researcher.   
-[Resume](https://drive.google.com/file/d/1ZmhuCRK0BiIjfBzlnDEaovdmD7Q9D1gQ/view?usp=sharing) **|** [LinkedIn](https://www.linkedin.com/in/einstein-ebereonwu) **|** [X (FKA Twitter)](https://x.com/einsteinmuna) **|** [YouTube](https://www.youtube.com/@einstein-munachi)
+[Resume (Natural Language Processing)](https://drive.google.com/file/d/1xt40BFE8x01CCgWXULYbJ120BlV4II46/view?usp=sharing) **|** [Resume (Computer Vision)](https://drive.google.com/file/d/1YDN6WwyPbggTIdv7i0KDRn_oVKpWptTC/view?usp=sharing) **|** [LinkedIn](https://www.linkedin.com/in/einstein-ebereonwu) **|** [X (FKA Twitter)](https://x.com/einsteinmuna) **|** [YouTube](https://www.youtube.com/@einstein-munachi)
 > Innovative Data Scientist, an expert in Python, SQL, PySpark, and data visualisation. Specialised in machine learning, NLP (BERT, RoBERTa, GPT), and Computer Vision (YOLO, ResNet, Diffusion Models), experienced in the use of vector databases for proficient similarity search and retrieval. Passionate about learning, and leveraging cutting-edge AI technologies including transformers and generative models. Skilled in building scalable, distributed solutions for complex data problems using Spark, driving insights and decision-making.   
 
 ## Skills
