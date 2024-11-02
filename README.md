@@ -14,7 +14,7 @@
 
 ## Education
 - **M.S., Data Science and Analytics	| Royal Holloway University of London**   
-  Grade: Ongoing   
+  Grade: 1st (First Class Honors)   
   Dissertation: Deep Learning based Medical Image Segmentation using DeepLabsV3+ equipped with attention mechanism.
                 		
 - **B.S., Software Engineering | Babcock University, Nigeria.**      
