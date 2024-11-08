@@ -65,6 +65,7 @@ The document summarizing system developed as my final year project for a B.Sc. i
 ![214431479-aae08584-b96e-4934-a205-45a315d6cb94](https://github.com/user-attachments/assets/5adf37f8-d659-4a9e-b871-197beec621ab)
 
 ## Certifications (Proof of continuous learning)
+- [Introduction to Cloud 101](https://www.credly.com/badges/a5d61cc6-ec06-4fdb-9cba-53d0166328c0/linked_in_profile) By [AWS](https://www.credly.com/organizations/amazon-web-services/badges)
 - [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/PQ2Z3UR2CLUK) By [DeepLearning.AI](https://www.deeplearning.ai/)
 - [Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/8H5L372MDYLF) By [Google](https://grow.google/intl/uk/enroll-certificates/?utm_source=google&utm_medium=paidsearch&utm_campaign=ha-sem-bk-gen-exa__geo%E2%80%94UK&utm_term=google%20training%20classes&gclsrc=aw.ds&gad_source=1&gclid=CjwKCAjwreW2BhBhEiwAavLwfIqhzCRpXvxMO1WxYMrOfN5tIqhgttybbjv_kbPGMfwRXJXAqtjClBoCM-UQAvD_BwE)
 
