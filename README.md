@@ -5,7 +5,7 @@
 ## Skills
 **Databases**: MySQL, PostgreSQL, MongoDB, ChromaDB   
 **Programming & Data Processing**: Python, SQL, PySpark, Hadoop.   
-**API & MLOps**: Flask, FastAPI, Streamlit, Docker, AWS, GCP, Render.   
+**API & MLOps**: Flask, FastAPI, Streamlit, Docker, AWS, Azure, GCP, Render.   
 **Data Visualisation & Analytics**: Tableau, PowerBI, Matplotlib, Plotly, Seaborn.   
 **Productivity Tools**: MS Suite (Word, Excel, PowerPoint, Outlook), Jira, Slack, Teams.   
 **Machine Learning & AI**: PyTorck, Scikit-Learn, YOLO, Roboflow, Transformers, NLP, Computer Vision.   
@@ -48,13 +48,13 @@
 ## Projects
 ### [Robust Medical Image Segmentation - DeepLabsV3+ with Attention]() (Computer Vision)
 
-Extensive researchch on optimizing the DeepLabV3+ architecture for medical image segmentation. Through rigorous experimentation, I developed enhanced variants of DeepLabV3+ by integrating attention mechanisms, specifically Convolutional Block Attention Module (CBAM) and Squeeze-and-Excitation (SEBlock) attention, applied in parallel within the encoder. These attention-equipped models consistently outperformed the base DeepLabV3+ and other published research works across multiple medical imaging datasets, including breast cancer ultrasound, lung X-rays, and ISIC skin lesions 2017.
+Extensive research on optimising the DeepLabV3+ architecture for medical image segmentation. Through rigorous experimentation, I developed enhanced variants of DeepLabV3+ by integrating attention mechanisms, specifically Convolutional Block Attention Module (CBAM) and Squeeze-and-Excitation (SEBlock) attention, applied in parallel within the encoder. These attention-equipped models consistently outperformed the base DeepLabV3+ and other published research works across multiple medical imaging datasets, including breast cancer ultrasound, lung X-rays, and ISIC skin lesions 2017.
 
 ![Lung Segmentation Predictions](https://github.com/user-attachments/assets/d6e3591d-69e9-4afd-a603-8ab9e343b82c)
 
 ### [Automated Attention Tracking and Reporting system](https://github.com/munas-git/Automated-Attention-Tracking-And-Reporting) (Computer Vision)   
 
-The Automated Attention Tracking and Reporting system is a sleek AI-driven dashboard that provides real-time monitoring and reporting of distraction levels during classes, meetings, or lectures. Utilizing advanced computer vision techniques to help educators and facilitators enhance focus and attention during sessions.
+The Automated Attention Tracking and Reporting system is a sleek AI-driven dashboard that monitors and reports live distraction levels during classes, meetings, or lectures. Utilising advanced computer vision techniques to help educators and facilitators enhance focus and attention during sessions.
 
 ![Distracted Image](https://github.com/user-attachments/assets/f0ee09cf-9c82-4b51-8b1f-d844f4f34ebe)
 
