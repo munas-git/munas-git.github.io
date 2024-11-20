@@ -45,7 +45,7 @@ Optimised system performance and streamlined workflows by implementing automatio
 ## Projects
 ### [LookOutAI](https://github.com/munas-git/LookOutAI) (Multi-model - Computer Vision & NLP)
 LookOutAI is a sophisticated image recognition tool designed to enhance security and privacy by identifying individuals in photos or videos using advanced AI technology. It provides detailed descriptions of their actions or behaviour and offers versatile features such as selectively blurring faces to ensure privacy or un-censoring specific targets for clarity. Ideal for security applications, LookOutAI enables law enforcement or security teams to process video evidence with precision while safeguarding the privacy of uninvolved individuals.   
-- **Tools & Tech:** Python, NumPy, Pixtral AI, Embeddings, Gradio.  
+- **Tools & Tech:** Python, NumPy, OpenCV, Pixtral AI, Embeddings, Gradio.  
 
 ![System Ourput Sample](https://github.com/user-attachments/assets/b549c210-9169-4d02-ad70-232d9c8f793c)
 
@@ -66,7 +66,7 @@ The Automated Attention Tracking and Reporting system is a sleek AI-driven dashb
 ### [Extractive, Abatractive document/text Summarising System.](https://github.com/munas-git/text-summarization-webapp) (NLP)
 
 The document summarising system developed as my final year project for a B.Sc. in Software Engineering at Babcock University goes beyond basic summarisation. It accurately predicts and suggests the top 2 topics for any text input, detects the language of the text and features text-to-speech functionality to read summaries aloud. Additionally, users can download their summaries as Word documents (.docx).   
-- **Tools & Tech:** Python, Scikit-learn, Decision Trees, Pandas, NumPy.
+- **Tools & Tech:** Python, OpenAI, Scikit-learn, Decision Trees, Pandas, NumPy.
 
 ![214431479-aae08584-b96e-4934-a205-45a315d6cb94](https://github.com/user-attachments/assets/5adf37f8-d659-4a9e-b871-197beec621ab)
 
