@@ -26,23 +26,20 @@
 (June 2024 - Aug 2024)**   
   ***Highlight*** - Intensive two-month long computer vision research focused on improving the accuracy of breast cancer, skin lesion, and lung segmentation.   
   
-  - Implemented advanced data preprocessing and augmentation techniques to enhance model performance and dataset diversity.
-  - Integrated and experimented with CBAM and SEBlock attention mechanisms in the DeepLabV3+ architecture using PyTorch, improving segmentation accuracy.
-  - Discovered significant advantages of a proposed DiceBCE loss function, leading to improved model convergence and performance.
-  - Conducted comprehensive analysis of results, demonstrating substantial improvements in breast cancer, skin lesion, and lung segmentation accuracy.
-  - Currently preparing research paper for publication, highlighting the novel approaches and their impact on medical image segmentation, including theories behind observed differences of attention mechanism performance on different datasets.
+Developed and applied advanced data preprocessing and augmentation techniques to enhance model performance and increase dataset diversity. Integrated CBAM and SEBlock attention mechanisms into the DeepLabV3+ architecture using PyTorch, significantly improving segmentation accuracy. Proposed and tested a new DiceBCE loss function, boosting model convergence and performance. Conducted in-depth analysis, demonstrating improvements in segmentation accuracy for breast cancer, skin lesions, and lung images. Currently preparing a research paper for publication, focusing on the impact of attention mechanisms in medical image segmentation.
+
+- **Tools & Tech:** Python, PyTorch, DeepLabV3+, Attention Mechanisms, CBAM, SEBlock, DiceBCE Loss Function, Data Augmentation, Medical Image Segmentation
 
 
 ## Work Experience
-**Data Scientist @ Vault Hill (_August - October 2023_)**
-- Secured a major contract and reduced costs by 35% through implementing MLOps pipeline with Llama-2, PyTorch, LangChain, and AWS services, improving ChatBot responsiveness by 70%.   
-- Streamlined data collection and processing workflows by engineered end-to-end ETL pipeline with custom web crawler, regex, enhancing fine-tuning data quality by 30%.   
-- Enhanced knowledge sharing and collaboration by authoring 2 system process documents, improving stakeholder comprehension of AI/ML outputs through effective visualisation of model insights.   
+**Data Scientist @ Vault Hill (_August - October 2023_)**   
+Collaborated on AI and data-driven initiatives, optimising workflows and delivering measurable business outcomes. By implementing scalable pipelines and fostering collaboration through clear documentation and insight-sharing, I ensured alignment between technical solutions and organisational goals while driving innovation and success.   
+- **Tools & Tech:** Python, Llama-2, PyTorch, LangChain, AWS (S3, Lambda, SageMaker), ETL Pipelines, Custom Web Crawlers, Regex, Data Visualization Tools.   
 
-**Data Analyst & Backend Developer @ SunFi (_Januray - June 2022_)**
-- Reduced bug tracking and resolution time by 50% through engineering and implementing an automated system.   
-- Streamlined workflows through design, and development of database schemas and Slack bot prompt templates.   
-- Enhanced system performance by 40% through PostgreSQL and Docker configuration for scalable infrastructure and streamlined bug reporting through API integration and automation with backend developers.   
+**Data Analyst & Backend Developer @ SunFi (_Januray - June 2022_)**   
+Optimised system performance and streamlined workflows by implementing automation and scalable infrastructure solutions. Efforts included designing efficient database schemas, developing Slack bot templates, and integrating APIs for bug reporting, resulting in improved operational efficiency and team collaboration.
+
+- **Tools & Tech:** Python, PostgreSQL, Docker, API Integration, Automation Tools, Jira, Slack Bot Templates, Database Schema Design.   
 
 
 ## Projects
