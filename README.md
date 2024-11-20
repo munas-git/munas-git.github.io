@@ -24,7 +24,7 @@
 ## Research Experience
 **Optimising Medical Image Segmentation Through Attention Mechanisms and Custom Loss Functions @ Royal Holloway University of London.   
 (June 2024 - Aug 2024)**   
-  ***Highlight*** - Intensive two-month long computer vision research focused on improving the accuracy of breast cancer, skin lesion, and lung segmentation.   
+  ***Highlight*** - Intensive two-month-long computer vision research focused on improving the accuracy of breast cancer, skin lesions, and lung segmentation.   
   
 Developed and applied advanced data preprocessing and augmentation techniques to enhance model performance and increase dataset diversity. Integrated CBAM and SEBlock attention mechanisms into the DeepLabV3+ architecture using PyTorch, significantly improving segmentation accuracy. Proposed and tested a new DiceBCE loss function, boosting model convergence and performance. Conducted in-depth analysis, demonstrating improvements in segmentation accuracy for breast cancer, skin lesions, and lung images. Currently preparing a research paper for publication, focusing on the impact of attention mechanisms in medical image segmentation.
 
@@ -34,7 +34,7 @@ Developed and applied advanced data preprocessing and augmentation techniques to
 ## Work Experience
 **Data Scientist @ Vault Hill (_August - October 2023_)**   
 Collaborated on AI and data-driven initiatives, optimising workflows and delivering measurable business outcomes. By implementing scalable pipelines and fostering collaboration through clear documentation and insight-sharing, I ensured alignment between technical solutions and organisational goals while driving innovation and success.   
-- **Tools & Tech:** Python, Llama-2, PyTorch, LangChain, AWS (S3, Lambda, SageMaker), ETL Pipelines, Custom Web Crawlers, Regex, Data Visualization Tools.   
+- **Tools & Tech:** Python, Llama-2, PyTorch, LangChain, AWS (S3, Lambda, SageMaker), ETL Pipelines, Custom Web Crawlers, Regex, Data Visualisation Tools.   
 
 **Data Analyst & Backend Developer @ SunFi (_Januray - June 2022_)**   
 Optimised system performance and streamlined workflows by implementing automation and scalable infrastructure solutions. Efforts included designing efficient database schemas, developing Slack bot templates, and integrating APIs for bug reporting, resulting in improved operational efficiency and team collaboration.
@@ -44,32 +44,36 @@ Optimised system performance and streamlined workflows by implementing automatio
 
 ## Projects
 ### [LookOutAI](https://github.com/munas-git/LookOutAI) (Multi-model - Computer Vision & NLP)
-LookOutAI is a sophisticated image recognition tool designed to enhance security and privacy by identifying individuals in photos or videos using advanced AI technology. It provides detailed descriptions of their actions or behavior and offers versatile features such as selectively blurring faces to ensure privacy or uncensoring specific targets for clarity. Ideal for security applications, LookOutAI enables law enforcement or security teams to process video evidence with precision while safeguarding the privacy of uninvolved individuals.   
+LookOutAI is a sophisticated image recognition tool designed to enhance security and privacy by identifying individuals in photos or videos using advanced AI technology. It provides detailed descriptions of their actions or behaviour and offers versatile features such as selectively blurring faces to ensure privacy or un-censoring specific targets for clarity. Ideal for security applications, LookOutAI enables law enforcement or security teams to process video evidence with precision while safeguarding the privacy of uninvolved individuals.   
+- **Tools & Tech:** Python, NumPy, Pixtral AI, Embeddings, Gradio.  
 
 ![System Ourput Sample](https://github.com/user-attachments/assets/b549c210-9169-4d02-ad70-232d9c8f793c)
 
 ### [Robust Medical Image Segmentation - DeepLabsV3+ with Attention]() (Computer Vision)
 
 Extensive research on optimising the DeepLabV3+ architecture for medical image segmentation. Through rigorous experimentation, I developed enhanced variants of DeepLabV3+ by integrating attention mechanisms, specifically Convolutional Block Attention Module (CBAM) and Squeeze-and-Excitation (SEBlock) attention, applied in parallel within the encoder. These attention-equipped models consistently outperformed the base DeepLabV3+ and other published research works across multiple medical imaging datasets, including breast cancer ultrasound, lung X-rays, and ISIC skin lesions 2017.
+- **Tools & Tech:** Python, PyTorch, Attention Mechanisms, DeepLabsV3+.  
 
 ![Lung Segmentation Predictions](https://github.com/user-attachments/assets/d6e3591d-69e9-4afd-a603-8ab9e343b82c)
 
 ### [Automated Attention Tracking and Reporting system](https://github.com/munas-git/Automated-Attention-Tracking-And-Reporting) (Computer Vision)   
 
-The Automated Attention Tracking and Reporting system is a sleek AI-driven dashboard that monitors and reports live distraction levels during classes, meetings, or lectures. Utilising advanced computer vision techniques to help educators and facilitators enhance focus and attention during sessions.
+The Automated Attention Tracking and Reporting system is a sleek AI-driven dashboard that monitors and reports live distraction levels during classes, meetings, or lectures. Utilising advanced computer vision techniques to help educators and facilitators enhance focus and attention during sessions.   
+- **Tools & Tech:** Python, Roboflow, Streamlit.  
 
 ![Distracted Image](https://github.com/user-attachments/assets/f0ee09cf-9c82-4b51-8b1f-d844f4f34ebe)
 
-### [Extractive, Abatractive document/text Summarizing System.](https://github.com/munas-git/text-summarization-webapp) (NLP)
+### [Extractive, Abatractive document/text Summarising System.](https://github.com/munas-git/text-summarization-webapp) (NLP)
 
-The document summarizing system developed as my final year project for a B.Sc. in Software Engineering at Babcock University goes beyond basic summarization. It accurately predicts and suggests the top 2 topics for any text input, detects the language of the text and features text-to-speech functionality to read summaries aloud. Additionally, users can download their summaries as Word documents (.docx).
+The document summarising system developed as my final year project for a B.Sc. in Software Engineering at Babcock University goes beyond basic summarisation. It accurately predicts and suggests the top 2 topics for any text input, detects the language of the text and features text-to-speech functionality to read summaries aloud. Additionally, users can download their summaries as Word documents (.docx).   
+- **Tools & Tech:** Python, Scikit-learn, Decision Trees, Pandas, NumPy.
 
 ![214431479-aae08584-b96e-4934-a205-45a315d6cb94](https://github.com/user-attachments/assets/5adf37f8-d659-4a9e-b871-197beec621ab)
 
 ## Certifications (Proof of continuous learning)
 - [Introduction to Cloud 101](https://www.credly.com/badges/a5d61cc6-ec06-4fdb-9cba-53d0166328c0/linked_in_profile) By [AWS](https://www.credly.com/organizations/amazon-web-services/badges)
-- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/PQ2Z3UR2CLUK) By [DeepLearning.AI](https://www.deeplearning.ai/)
-- [Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/8H5L372MDYLF) By [Google](https://grow.google/intl/uk/enroll-certificates/?utm_source=google&utm_medium=paidsearch&utm_campaign=ha-sem-bk-gen-exa__geo%E2%80%94UK&utm_term=google%20training%20classes&gclsrc=aw.ds&gad_source=1&gclid=CjwKCAjwreW2BhBhEiwAavLwfIqhzCRpXvxMO1WxYMrOfN5tIqhgttybbjv_kbPGMfwRXJXAqtjClBoCM-UQAvD_BwE)
+- [Deep Learning Specialisation](https://www.coursera.org/account/accomplishments/specialization/certificate/PQ2Z3UR2CLUK) By [DeepLearning.AI](https://www.deeplearning.ai/)
+- [Data Analytics Specialisation](https://www.coursera.org/account/accomplishments/specialization/certificate/8H5L372MDYLF) By [Google](https://grow.google/intl/uk/enroll-certificates/?utm_source=google&utm_medium=paidsearch&utm_campaign=ha-sem-bk-gen-exa__geo%E2%80%94UK&utm_term=google%20training%20classes&gclsrc=aw.ds&gad_source=1&gclid=CjwKCAjwreW2BhBhEiwAavLwfIqhzCRpXvxMO1WxYMrOfN5tIqhgttybbjv_kbPGMfwRXJXAqtjClBoCM-UQAvD_BwE)
 
 ## Blogs
 - [REST API Implementation in Python for Model Deployment: Flask and FastAPI.](https://medium.com/@einsteinmunachiso/rest-api-implementation-in-python-for-model-deployment-flask-and-fastapi-e80a6cedff86)
@@ -103,7 +107,7 @@ The document summarizing system developed as my final year project for a B.Sc. i
 - **Pioneer Lead Data Scientist @ [GDSC Babcock University.](https://www.linkedin.com/company/gdsc-babcock/posts/?feedView=all)**   
 **(_September 2022 - August 2023_)**
 
-  As the GDSC Lead for the Data Science track, I developed a comprehensive training framework that achieved significant learning outcomes. I introduced over 300 students to Python Programming and Object-Oriented Programming (OOP) through regular in-person and online sessions. I enhanced practical skills by organizing coding sessions focused on data cleaning, visualization, machine learning model development, evaluation, and regularization
+  As the GDSC Lead for the Data Science track, I developed a comprehensive training framework that achieved significant learning outcomes. I introduced over 300 students to Python Programming and Object-Oriented Programming (OOP) through regular in-person and online sessions. I enhanced practical skills by organising coding sessions focused on data cleaning, visualization, machine learning model development, evaluation, and regularisation
 
 - **Volunteer Data Science Bootcamp Teacher @ [GDSC](https://www.linkedin.com/company/gdsc-iet-lucknow/) Nigeria.**   
 **(_February 2023 - March 2023_)**
@@ -118,7 +122,7 @@ The document summarizing system developed as my final year project for a B.Sc. i
 - **BUCC Network Member @ [Babcock University Computer Club.](https://www.linkedin.com/company/bucc-official/posts/?feedView=all)**   
 **(_September 2019 - June 2023_)**
 
-  During my tenure, I engaged in numerous impactful initiatives, one of the highlights being my key role in orchestrating a highly successful career fair in 2023. As a vital member of the planning committee, I helped bring in distinguished speakers and leading organizations within the tech industry. Additionally, I enhanced the event by contributing valuable insights as a panelist during discussions.
+  During my tenure, I engaged in numerous impactful initiatives, one of the highlights being my key role in orchestrating a highly successful career fair in 2023. As a vital member of the planning committee, I helped bring in distinguished speakers and leading organisations within the tech industry. Additionally, I enhanced the event by contributing valuable insights as a panellist during discussions.
 
 
 ## Interests and Activities
@@ -134,4 +138,3 @@ The document summarizing system developed as my final year project for a B.Sc. i
 ### Hackathons   
 I enjoy hackathons. I recently attended and won a two-day AI hackathon at Heat Geeks AI where my team won the prize for Innovation by developing an AI tool to help homeowners and installers assess heat pump locations using satellite imagery, internal company API and OpenAI API.
 References Available on request.
-
