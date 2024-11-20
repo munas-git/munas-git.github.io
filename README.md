@@ -46,6 +46,11 @@
 
 
 ## Projects
+### [LookOutAI](https://github.com/munas-git/LookOutAI) (Multi-model - Computer Vision & NLP)
+LookOutAI is a sophisticated image recognition tool designed to enhance security and privacy by identifying individuals in photos or videos using advanced AI technology. It provides detailed descriptions of their actions or behavior and offers versatile features such as selectively blurring faces to ensure privacy or uncensoring specific targets for clarity. Ideal for security applications, LookOutAI enables law enforcement or security teams to process video evidence with precision while safeguarding the privacy of uninvolved individuals.   
+
+![System Ourput Sample](https://github.com/user-attachments/assets/b549c210-9169-4d02-ad70-232d9c8f793c)
+
 ### [Robust Medical Image Segmentation - DeepLabsV3+ with Attention]() (Computer Vision)
 
 Extensive research on optimising the DeepLabV3+ architecture for medical image segmentation. Through rigorous experimentation, I developed enhanced variants of DeepLabV3+ by integrating attention mechanisms, specifically Convolutional Block Attention Module (CBAM) and Squeeze-and-Excitation (SEBlock) attention, applied in parallel within the encoder. These attention-equipped models consistently outperformed the base DeepLabV3+ and other published research works across multiple medical imaging datasets, including breast cancer ultrasound, lung X-rays, and ISIC skin lesions 2017.
